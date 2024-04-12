@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "python-tests-tutorial"
+version = "0.1.0"
+description = "Python tests tutorial"
+authors = [
+    "Pavel Zemskov <zmskv@users.noreply.github.com>",
+    "Artem Khnychenko <khnychenkoav@users.noreply.github.com>",
+    "sakost <23290721+sakost@users.noreply.github.com>",
+]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/sakost/python_tests_tutorial"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^8.1.1"
+pytest-cov = "^5.0.0"
+pytest-mock = "^5.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
