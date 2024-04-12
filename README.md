@@ -7,4 +7,4 @@
 [Павел Земсков](https://github.com/zmskv), [Артём Хныченко](https://github.com/khnychenkoav) и [Саженов Константин](https://github.com/sakost)
 
 ## Лицензия
-MIT
+[MIT](LICENSE)
