@@ -1,4 +1,4 @@
-from myproject.main import Calculator
+from myproject.calculator import Calculator
 
 
 def test_add():
